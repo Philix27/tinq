@@ -16,8 +16,6 @@ export default function Services() {
     title,
     description,
     image,
-    tags,
-    source,
     visit,
     id,
   }) => (
