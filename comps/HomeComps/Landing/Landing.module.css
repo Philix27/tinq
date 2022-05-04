@@ -1,0 +1,76 @@
+.container {
+    height: 500px;
+    padding: 0 0.5rem;
+    display: flex;
+    align-items: center;
+    /* grid-template-columns: repeat(2, 1fr); */
+    justify-content: flex-start;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-image:  url(../../../public/images/landing.png);
+  }
+  
+.img{
+  width:100%;
+  height: 80vh;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+
+ align-items: center;
+ justify-content: center;
+  padding-left: 50px;
+ 
+}
+
+.sectionTitle{
+  font-style: bold;
+  font-size: 5rem;
+  font-weight: 1000;
+  
+}
+
+.sectionTitle .black{
+   color: #000;
+}
+.sectionTitle .red{
+    color: #be0404;
+}
+
+
+
+.smallText {
+  color: grey;
+  font-size: 2rem;
+  font-style: italic;
+  padding-bottom: 20px;
+
+}
+
+
+
+
+ @media(max-width: 700px) {
+  .container{
+    height: 65vh;
+    grid-template-columns: repeat(1, 1fr);
+    background-image: linear-gradient(rgba(250, 236, 239, 0.2), rgba(17, 1, 1, 0.5)), url(../../../public/images/m-landing.png);
+    
+  }
+
+}
+
+
+@media(max-width: 500px) {
+  .container{
+    height: 60vh;
+    background-image: linear-gradient(rgba(250, 236, 239, 0.2), rgba(17, 1, 1, 0.5)), url(../../../public/images/m-landing.png);
+  }
+
+}
+

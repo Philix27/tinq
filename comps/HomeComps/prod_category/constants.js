@@ -1,0 +1,60 @@
+
+export const projects = [
+  {
+    title: 'Get2geda',
+    group: "mobile",
+    detailsPage: "/projects/g2g",
+    githubLink: "",
+    image: '/images/project/calls.jpg',
+  
+    id: 0,
+  },
+  {
+    title: 'Mims',
+    group: "mobile",
+     detailsPage: "/projects/mim",
+    image: '/images/project/sales.jpg',
+    githubLink: "",
+    id: 1,
+  },
+  {
+    title: 'Rxedu - App',
+    group: "mobile",
+    detailsPage: "/projects/rxedu",
+    image: '/images/project/d-stethoscope.jpg',
+    githubLink: "",
+    id: 2,
+  },
+  {
+    title: 'Rxedu - Website',
+     detailsPage: "/projects/rxeduweb",
+    group: "web",
+    image: '/images/project/d-fitness.jpg',
+    githubLink: "",
+    id: 3,
+  },
+  {
+    title: 'Bioplus',
+    group: "mobile",
+    detailsPage: "/projects/bioplus",
+    image: '/images/project/calls.jpg',
+    githubLink: "",
+    id: 4,
+  },
+  {
+    title: 'BTB',
+    group: "mobile",
+     detailsPage: "/projects/btb",
+    image: '/images/project/sales.jpg',
+    githubLink: "",
+    id: 5,
+  },
+  {
+    title: 'Portfolio',
+    group: "web",
+     detailsPage: '/',
+    image: '/images/project/drugs.jpg',
+    githubLink: "",
+    id: 6,
+  },
+];
