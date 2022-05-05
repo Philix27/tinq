@@ -8,7 +8,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
-    background-image:  url(../../../public/images/landing.png);
+    background-image:  url(../../../public/images/landing.jpg);
   }
   
 .img{
@@ -21,31 +21,30 @@
 .content{
   display: flex;
   flex-direction: column;
-
  align-items: center;
  justify-content: center;
-  padding-left: 50px;
+  padding-left: 80px;
  
 }
 
 .sectionTitle{
   font-style: bold;
-  font-size: 5rem;
+  font-size: 6rem;
   font-weight: 1000;
   
 }
 
-.sectionTitle .black{
-   color: #000;
+.sectionTitle .white{
+   color: #fff;
 }
 .sectionTitle .red{
-    color: #be0404;
+    color: #000e1e;
 }
 
 
 
 .smallText {
-  color: grey;
+  color: #fff;
   font-size: 2rem;
   font-style: italic;
   padding-bottom: 20px;
@@ -59,9 +58,13 @@
   .container{
     height: 65vh;
     grid-template-columns: repeat(1, 1fr);
-    background-image: linear-gradient(rgba(250, 236, 239, 0.2), rgba(17, 1, 1, 0.5)), url(../../../public/images/m-landing.png);
+    background-image: linear-gradient(rgba(250, 236, 239, 0.2), rgba(17, 1, 1, 0.5)), url(../../../public/images/landing.jpg);
     
   }
+
+  .content{
+  padding-left: 30px;
+}
 
 }
 
@@ -69,8 +72,12 @@
 @media(max-width: 500px) {
   .container{
     height: 60vh;
-    background-image: linear-gradient(rgba(250, 236, 239, 0.2), rgba(17, 1, 1, 0.5)), url(../../../public/images/m-landing.png);
+    background-image: linear-gradient(rgba(250, 236, 239, 0.2), rgba(17, 1, 1, 0.5)), url(../../../public/images/landing.jpg);
   }
+
+    .content{
+  padding-left: 30px;
+}
 
 }
 

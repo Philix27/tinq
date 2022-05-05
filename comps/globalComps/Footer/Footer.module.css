@@ -1,8 +1,8 @@
 .wrapper{
-  /* background-color: #910707; */
-  background-color: #fff;
+  /* background-color: #000e1e; */
+  background-color: #000e1e;
   /* color: #fff; */
-  color: #910707;
+  color: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -37,7 +37,7 @@
   flex-direction: column;
   align-items: center;
   /* color: #fff;  */
-  color: #910707;
+  color: #fff;
   line-height: 1.6;
   bottom: 0;
   width: 100%;
@@ -46,7 +46,7 @@
 
 .Linka {
   /* color: #fff;  */
-  color: #910707;
+  color: #fff;
 
 }
 
