@@ -1,4 +1,9 @@
-# How many children is enough?
+---
+title: 'How many children is enough?'
+date: 'March 12, 2022'
+excerpt: 'Why we must bear children. Rsponsibilities of parenting'
+cover_image: '/images/project/7.jpg'
+---
 
 1. Why we have children?
 2. Budget for a child
@@ -15,3 +20,4 @@ Without reproduction or procreation, humanity will cease to exist and as such we
 ## 3. Are children truly blessings?
 ## 4. Advantages and Disadvantages 
 ## 5. Responsibilities & Parenting
+

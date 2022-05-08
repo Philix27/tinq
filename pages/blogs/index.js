@@ -1,26 +1,47 @@
-import MarkdownIt from 'markdown-it'
+import fs from 'fs'
+import path from 'path'
+import matter from 'gray-matter'
+// import Head from 'next/head'
+import BlogComp from '../../comps/HomeComps/blogs'
+import { sortByDate } from '../../utils'
 
+export default function PostPage({ posts }) {
+  return (
+    <div>
+      {/* <Head>
+        <title>Blog Categories</title>
+      </Head> */}
+      <BlogComp posts={posts}/>
+    </div>
+  )
+}
 
+export async function getStaticProps() {
+  // Get files from the posts dir
+  const files = fs.readdirSync(path.join('posts'))
 
+  // Get slug and frontmatter from posts
+  const posts = files.map((filename) => {
+    // Create slug
+    const slug = filename.replace('.md', '')
 
-export default function BlogsPage({anArticle}) {
+    // Get frontmatter
+    const markdownWithMeta = fs.readFileSync(
+      path.join('posts', filename),
+      'utf-8'
+    )
 
-  const md = new MarkdownIt();
-  const cc = md.render('docs/test.md');
+    const { data: frontmatter } = matter(markdownWithMeta)
 
-    return (
-        <section
-          className='section'
-        >
-           <div className='markdown-section'>
-              {/* <div className='sectionTitle'>{anArticle.title}</div> */}
-        <div
-            dangerouslySetInnerHTML={{ __html: cc }}
-            // dangerouslySetInnerHTML={{ __html: md.render(anArticle.content) }}
-          >
-          </div>
-           </div>
-          </section>
-           
-    );
+    return {
+      slug,
+      frontmatter,
+    }
+  })
+
+  return {
+    props: {
+      posts: posts.sort(sortByDate),
+    },
+  }
 }
