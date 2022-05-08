@@ -1,23 +1,17 @@
 import {HomeLanding} from '../comps/HomeComps/Landing/Landing'
 import Objectives from '../comps/HomeComps/objectives/'
-// import Blogs from '../comps/HomeComps/blogs/'
-// import Projects from '../comps/HomeComps/prod_category'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-// import Head from 'next/head'
 import BlogComp from '../comps/HomeComps/blogs'
 import { sortByDate } from '../utils'
-
   
 export default function Home({posts}) {
   return (
     < >    
       <HomeLanding />
       <Objectives/>
-      <BlogComp posts={posts}/>
-
-      {/* <Blogs /> */}
+      {/* <BlogComp posts={posts}  /> */}
     </>
   )
 }
