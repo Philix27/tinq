@@ -3,7 +3,7 @@
   import {motion} from 'framer-motion'
 
 
- export const BlogComp = ({ posts }) =>  {
+ export default function BlogComp({ posts })  {
       return (
         <div className='section services' id="services">
             <div className='sectionTitle' >Blogs</div >        
