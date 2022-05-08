@@ -11,12 +11,12 @@ export default function Navbar() {
         <>    
         <div className={styles.nav}>
 
-           <input type="checkbox" id="check" className={styles.check} />
+           {/* <input type="checkbox" id="check" className={styles.check} />
             <div className={styles.bars}>
                 <label htmlFor="check" >
                 <FaBars />
                 </label>
-            </div>
+            </div> */}
 
            <div className={styles.nav_start}>
                     {/* <Link href="/">
@@ -44,12 +44,12 @@ export default function Navbar() {
                             </div>
                         </li>
                         
-                        <li className={styles.nav_start_list_item}>
+                        {/* <li className={styles.nav_start_list_item}>
                             <Link href="/team"><a className={styles.link}>Blog Category</a></Link>
                         </li>
                          <li className={styles.nav_start_list_item}>
                             <Link href="/socials"><a className={styles.link}>Future Topics</a></Link>
-                        </li>
+                        </li> */}
                        
                     </ul>
                </div>
