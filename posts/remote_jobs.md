@@ -1,8 +1,8 @@
 ---
-title: 'Python Book Review'
-date: 'March 7, 2021'
-excerpt: 'In this review, we will be looking at the new Python book from Oriley'
-cover_image: '/images/project/4.jpg'
+title: 'Remote Jobs'
+date: 'March 5, 2021'
+excerpt: 'Pros and Cons associated with remote jobs'
+cover_image: '/images/project/6.jpg'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat

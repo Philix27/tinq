@@ -1,7 +1,7 @@
 ---
-title: 'JavaScript Performance Tips'
+title: 'Family Planning'
 date: 'March 4, 2021'
-excerpt: 'We will look at 10 simple tips and tricks to increase the speed of your code when writing JS'
+excerpt: 'Why we really need family planning '
 cover_image: '/images/project/2.jpg'
 ---
 

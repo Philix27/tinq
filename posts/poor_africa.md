@@ -1,8 +1,8 @@
 ---
-title: 'Tailwind vs. Bootstrap'
-date: 'March 5, 2021'
-excerpt: 'Both Tailwind and Bootstrap are very popular CSS frameworks. In this article, we will compare them'
-cover_image: '/images/project/6.jpg'
+title: 'Why Africa is so poor'
+date: 'March 7, 2021'
+excerpt: 'Crisis associated with Africa'
+cover_image: '/images/project/4.jpg'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
