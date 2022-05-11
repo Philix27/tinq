@@ -1,9 +1,6 @@
 import React from 'react'
 import styles from './styles.module.css'
 
-
-
-
 export default function Objectives() {
 
     return (
@@ -17,7 +14,7 @@ export default function Objectives() {
                 </div>
                 <div >
                     <div className='sectionJumbotron'>
-                        <p>This </p>
+                        <p>This is a website to a future youtube channel.  </p>
                     </div>      
                 </div>
             </div>           
