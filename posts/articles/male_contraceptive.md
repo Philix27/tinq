@@ -2,7 +2,7 @@
 title: 'Male Contraceptive'
 date: 'May 10, 2021'
 excerpt: 'Is it a potential blessing or a course'
-cover_image: '/images/project/1.jpg'
+cover_image: '/post_img/condom.jpg'
 ---
 
 1. Introduction
@@ -19,7 +19,6 @@ Right from the early humans,women has always been a major determinet in deciding
 
 Should they be scared about the coming of male contraceptives? I don't think so, because while men may have a little bit of say, they still have or has to give the final say. I agree to the fact that women still deserve the power to make the decisions regarding her body because at the end she is the one to carry the child for 9 months of extreme homonal and emotional imbalance. 
 
-![men](/post_img/landing.png)
 
 ## Men's perspective
 

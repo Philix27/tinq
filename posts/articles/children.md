@@ -17,6 +17,9 @@ cover_image: '/images/project/children.jpg'
 Without reproduction or procreation, humanity will cease to exist and as such we owe it to ourselves to bring in more people to this world. If not for the joy that comes with being a parent then for the fact that humanity must continue to exist.
 	
 ## 2. Budget for a child
+
+![family](/post_img/family.jpg)
+
 ## 3. Are children truly blessings?
 ## 4. Advantages and Disadvantages 
 ## 5. Responsibilities & Parenting
