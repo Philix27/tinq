@@ -19,6 +19,8 @@ Right from the early humans,women has always been a major determinet in deciding
 
 Should they be scared about the coming of male contraceptives? I don't think so, because while men may have a little bit of say, they still have or has to give the final say. I agree to the fact that women still deserve the power to make the decisions regarding her body because at the end she is the one to carry the child for 9 months of extreme homonal and emotional imbalance. 
 
+![men](/post_img/landing.png)
+
 ## Men's perspective
 
 Th guys will definitely be glad about this recent development because they now have an additionallevel of protection (after condom). While some men have complained over the discomfort that comes from using condom, here comes a better alternative to stay away from unwanted pregnancy. With this additional level of safety one would expect lesser number of children being born out of wedlock or a man getting married just because he couldn't control his penis. Undoubtedly this is truly a good news for the men and an extra level of protection.
