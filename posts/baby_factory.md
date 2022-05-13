@@ -3,6 +3,8 @@ title: "Babby Factory"
 date: 'March 7, 2021'
 excerpt: 'The external uterus'
 cover_image: '/images/project/3.jpg'
+lastEdit: 'May 12, 2022'
+
 ---
 
 Lorem markdownum erat meritum instat quis! Parari vera harundinibus molibus nam

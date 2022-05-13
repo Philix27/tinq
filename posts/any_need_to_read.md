@@ -3,6 +3,8 @@ title: 'Do we still need to read?'
 date: 'March 5, 2021'
 excerpt: 'Is reading books outdated?'
 cover_image: '/images/project/6.jpg'
+lastEdit: 'May 12, 2022'
+
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
