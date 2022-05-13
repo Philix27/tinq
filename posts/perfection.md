@@ -2,7 +2,7 @@
 title: 'Can one attain perfection'
 date: 'March 7, 2021'
 excerpt: 'Reasons why perfection can be deluding'
-cover_image: '/images/project/4.jpg'
+cover_image: '/post_img/pefect.jpg'
 lastEdit: 'May 12, 2022'
 
 ---

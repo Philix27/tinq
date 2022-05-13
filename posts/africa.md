@@ -13,4 +13,4 @@ cover_image: '/post_img/africa.jpg'
 5. Corruption
 
 ## Ethnicity
-Africa is the most diverse contitnent (based on ethnic group) in the world, with over 1000 different ethnic groups. This has 
+Africa is the most diverse contitnent (based on ethnic group) in the world,  with over 3,000 different ethnic groups speaking more than 2,100 different languages in all of Africa. 

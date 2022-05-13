@@ -3,7 +3,7 @@ title: 'Remote Jobs'
 date: 'March 5, 2021'
 excerpt: 'Pros and Cons associated with remote jobs'
 lastEdit: 'May 12, 2022'
-cover_image: '/images/project/6.jpg'
+cover_image: '/post_img/remote.jpg'
 
 ---
 
