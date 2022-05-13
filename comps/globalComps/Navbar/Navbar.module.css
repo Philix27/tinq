@@ -1,7 +1,7 @@
 .nav {
   height: 50px;
   align-items: center;
-  background-color: #ecebe975;
+  background-color: #000e1ea9;
   /* background-image: linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)); */
   display: flex;
   width: 100%;
@@ -81,7 +81,7 @@
     left: 50%;
     color: #be0404;
 
-    background-color: #ecebe9;
+    background-color: #000e1e79;
     width: 50%;
     height: 100%;
     margin: 0;
